@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="screen_default">0.0</string>
+    <string name="main_text">Your Results:</string>
+
+    <string name="num_0">0</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+
+    <string name="key_back">BCK</string>
+    <string name="key_c">C</string>
+    <string name="key_CE">CE</string>
+    <string name="key_plus">+</string>
+    <string name="key_minus">-</string>
+    <string name="key_multiply">x</string>
+    <string name="key_divide">/</string>
+
+    <string name="key_equals">=</string>
+    <string name="key_dot">.</string>
+
+</resources>
